@@ -19,36 +19,60 @@
 
 ## 💗 Who I Am
 
-```typescript
-const rameesha = {
-  title: "Final-Year Software Engineering Student @ University of Lahore",
-  cgpa: "3.83 / 4.00",
-  ranking: "1st in batch · Top 3.3% nationally (HEC NSCT)",
+<table>
+<tr>
+<td width="140" valign="top">🎓</td>
+<td>
 
-  stack: [
-    "C++", "Java", "Python", "JavaScript",
-    "HTML", "CSS", "PHP", "Laravel", "Django",
-    "OpenCV", "PyTorch", "YOLOv8", "Firebase"
-  ],
+**Final-Year Software Engineering Student** @ University of Lahore
+CGPA `3.83 / 4.00` · 🏆 1st in batch · Top 3.3% nationally (HEC NSCT)
 
-  launchedProjects: [
-    "AI Smart Glasses — real-time translation & building ID (FYP)",
-    "Real-Time Object Detection & Tracking — YOLOv8 + ByteTrack",
-    "Flower Classification CNN — PyTorch + ResNet18",
-    "StudyTask — Android task manager (Java + Firebase)",
-    "Django Auction E-Commerce Platform",
-    "Penetration Testing & Security Analysis Lab"
-  ],
+</td>
+</tr>
+<tr>
+<td valign="top">💻</td>
+<td>
 
-  certifications: [
-    "CodeAlpha AI Internship — Object Detection & Tracking (Task 4)"
-  ],
+**Core Stack**
 
-  status: "🌸 Building AI/ML + Cybersecurity projects, one commit at a time",
+![C++](https://img.shields.io/badge/-C++-ff8fc7?style=flat-square&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ff8fc7?style=flat-square) ![Python](https://img.shields.io/badge/-Python-ff8fc7?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-ff8fc7?style=flat-square) ![PHP](https://img.shields.io/badge/-PHP-ff8fc7?style=flat-square) ![Laravel](https://img.shields.io/badge/-Laravel-ff8fc7?style=flat-square) ![Django](https://img.shields.io/badge/-Django-ff8fc7?style=flat-square) ![PyTorch](https://img.shields.io/badge/-PyTorch-ff8fc7?style=flat-square) ![OpenCV](https://img.shields.io/badge/-OpenCV-ff8fc7?style=flat-square) ![YOLOv8](https://img.shields.io/badge/-YOLOv8-ff8fc7?style=flat-square) ![Firebase](https://img.shields.io/badge/-Firebase-ff8fc7?style=flat-square)
 
-  openTo: ["AI/ML Internships", "Computer Vision Roles", "Cybersecurity Roles"]
-};
-```
+</td>
+</tr>
+<tr>
+<td valign="top">🚀</td>
+<td>
+
+**Launched Projects**
+- AI Smart Glasses — real-time translation & building ID *(FYP)*
+- Real-Time Object Detection & Tracking — YOLOv8 + ByteTrack
+- Flower Classification CNN — PyTorch + ResNet18
+- StudyTask — Android task manager (Java + Firebase)
+- Django Auction E-Commerce Platform
+- Penetration Testing & Security Analysis Lab
+
+</td>
+</tr>
+<tr>
+<td valign="top">📜</td>
+<td>
+
+**Certifications**
+CodeAlpha AI Internship — Object Detection & Tracking (Task 4)
+
+</td>
+</tr>
+<tr>
+<td valign="top">🌸</td>
+<td>
+
+**Currently:** Building AI/ML + Cybersecurity projects, one commit at a time
+
+**Open to:** `AI/ML Internships` · `Computer Vision Roles` · `Cybersecurity Roles`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
