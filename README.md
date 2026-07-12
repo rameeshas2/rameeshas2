@@ -116,7 +116,7 @@ A deep learning image classifier using transfer learning on ResNet18, with a Str
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rameeshas2&show_icons=true&theme=nord&border_color=ff8fc7&title_color=ff8fc7&icon_color=ff8fc7&text_color=ffffff&bg_color=1a1a1a&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rameeshas2&show_icons=true&theme=nord&border_color=ff8fc7&title_color=ff8fc7&icon_color=ff8fc7&text_color=ffffff&bg_color=1a1a1a" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameeshas2&layout=compact&theme=nord&border_color=ff8fc7&title_color=ff8fc7&text_color=ffffff&bg_color=1a1a1a" width="42%" />
 
 <br/>
@@ -126,10 +126,6 @@ A deep learning image classifier using transfer learning on ResNet18, with a Str
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=rameeshas2&theme=nord&no-frame=true&no-bg=true&row=1&margin-w=15" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rameeshas2&theme=react-dark&hide_border=true" width="95%" />
 
 <br/>
 
