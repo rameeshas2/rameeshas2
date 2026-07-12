@@ -116,8 +116,14 @@ A deep learning image classifier using transfer learning on ResNet18, with a Str
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rameeshas2&show_icons=true&theme=nord&border_color=ff8fc7&title_color=ff8fc7&icon_color=ff8fc7&text_color=ffffff&bg_color=1a1a1a" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameeshas2&layout=compact&theme=nord&border_color=ff8fc7&title_color=ff8fc7&text_color=ffffff&bg_color=1a1a1a" width="42%" />
+<img src="https://img.shields.io/badge/dynamic/json?color=ff8fc7&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frameeshas2&style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/dynamic/json?color=ff8fc7&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frameeshas2&style=for-the-badge&labelColor=1a1a1a" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,php" width="220" />
+
+*Most-used languages across public repositories*
 
 <br/>
 
