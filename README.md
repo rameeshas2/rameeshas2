@@ -129,11 +129,6 @@ A deep learning image classifier using transfer learning on ResNet18, with a Str
 
 <br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?color=ff8fc7&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frameeshas2&style=for-the-badge&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/dynamic/json?color=ff8fc7&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frameeshas2&style=for-the-badge&labelColor=1a1a1a" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=rameeshas2&theme=nord&border=ff8fc7&background=1a1a1a&ring=ff8fc7&fire=ff8fc7&sideNums=ff8fc7&currStreakLabel=ff8fc7" width="90%" />
 
 <br/>
