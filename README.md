@@ -16,8 +16,8 @@ Final-year Software Engineering student at the University of Lahore (CGPA 3.83/4
 
 I work at the intersection of **AI/computer vision** and **cybersecurity** — currently completing an AI internship at CodeAlpha, building object detection, NLP, and classification systems, alongside earlier work in penetration testing and Android development.
 
-**Core stack:** Python · C++ · Java · JavaScript · PHP
-**AI/CV:** PyTorch · OpenCV · YOLOv8
+**Core stack:** Python · C++ · Java · JavaScript · PHP  
+**AI/CV:** PyTorch · OpenCV · YOLOv8  
 **Web:** Django · Laravel · Firebase
 
 Open to AI/ML internships, computer vision roles, and cybersecurity roles.
@@ -26,29 +26,29 @@ Open to AI/ML internships, computer vision roles, and cybersecurity roles.
 
 ## Selected Projects
 
-**Real-Time Object Detection & Tracking**
-A multi-object detection and tracking application built during my CodeAlpha AI internship, supporting webcam, video, and image input.
-`YOLOv8n` `ByteTrack` `OpenCV` `Streamlit` `Python`
+**Real-Time Object Detection & Tracking**  
+A multi-object detection and tracking application built during my CodeAlpha AI internship, supporting webcam, video, and image input.  
+`YOLOv8n` `ByteTrack` `OpenCV` `Streamlit` `Python`  
 [github.com/rameeshas2/CodeAlpha_ObjectDetectionTracking](https://github.com/rameeshas2/CodeAlpha_ObjectDetectionTracking)
 
-**Flower Classification (CNN + ResNet18)**
-An image classifier using transfer learning on ResNet18, with a Streamlit interface for real-time predictions and confidence scores.
-`PyTorch` `ResNet18` `Streamlit` `Python`
+**Flower Classification (CNN + ResNet18)**  
+An image classifier using transfer learning on ResNet18, with a Streamlit interface for real-time predictions and confidence scores.  
+`PyTorch` `ResNet18` `Streamlit` `Python`  
 [github.com/rameeshas2/Flower-Classification-CNN-ResNet18](https://github.com/rameeshas2/Flower-Classification-CNN-ResNet18)
 
-**AI Smart Glasses** *(Final Year Project)*
-Real-time building detection, OCR, and translation delivered through a wearable HUD.
+**AI Smart Glasses** *(Final Year Project)*  
+Real-time building detection, OCR, and translation delivered through a wearable HUD.  
 `Roboflow` `ML Kit` `Android`
 
-**Django Auction Platform**
-A full e-commerce-style auction site with bidding, watchlists, and automated Selenium end-to-end test coverage.
+**Django Auction Platform**  
+A full e-commerce-style auction site with bidding, watchlists, and automated Selenium end-to-end test coverage.  
 `Django` `Selenium` `Python`
 
-**StudyTask**
-An Android student task manager with full CRUD, search/filter, and dark mode, built with explicit OOP structure.
+**StudyTask**  
+An Android student task manager with full CRUD, search/filter, and dark mode, built with explicit OOP structure.  
 `Java` `Firebase` `Android`
 
-**Penetration Testing Lab**
+**Penetration Testing Lab**  
 A hands-on security analysis environment covering common vulnerability classes and exploitation techniques.
 
 <br/>
@@ -83,7 +83,7 @@ A hands-on security analysis environment covering common vulnerability classes a
 
 <img src="https://github-profile-trophy.vercel.app/?username=rameeshas2&theme=nord&no-frame=true&no-bg=true&row=1&margin-w=15" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rameeshas2&theme=react-dark&hide_border=true&color=ff8fc7&line=ff8fc7&point=ffffff&area=true&area_color=ff8fc7" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rameeshas2&theme=react-dark&hide_border=true" width="95%" />
 
 </div>
 
