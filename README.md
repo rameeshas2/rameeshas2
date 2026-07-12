@@ -24,40 +24,25 @@
 
 ## Who I Am
 
-```ts
-const rameesha = {
-  title: "Final-Year Software Engineering Student",
-  university: "University of Lahore · CGPA 3.83/4.00",
-  ranking: "1st in batch · Top 3.3% nationally (HEC NSCT)",
+Final-year Software Engineering student at the University of Lahore (CGPA 3.83/4.00), ranked 1st in my batch and in the top 3.3% of IT graduates nationally on HEC's NSCT assessment.
 
-  stack: [
-    "Python", "C++", "Java", "JavaScript", "PHP",
-    "PyTorch", "OpenCV", "YOLOv8",
-    "Django", "Laravel", "Firebase"
-  ],
+**Core stack:** Python · C++ · Java · JavaScript · PHP  
+**AI/CV:** PyTorch · OpenCV · YOLOv8  
+**Web:** Django · Laravel · Firebase
 
-  launchedProjects: [
-    "AI Smart Glasses — real-time translation & building ID (FYP)",
-    "Real-Time Object Detection & Tracking — YOLOv8 + ByteTrack",
-    "Flower Classification CNN — PyTorch + ResNet18",
-    "StudyTask — Android task manager (Java + Firebase)",
-    "Django Auction E-Commerce Platform",
-    "Penetration Testing & Security Analysis Lab"
-  ],
+**Projects I've launched:**
+- AI Smart Glasses — real-time translation & building ID (Final Year Project)
+- Real-Time Object Detection & Tracking — YOLOv8 + ByteTrack
+- Flower Classification CNN — PyTorch + ResNet18
+- StudyTask — Android task manager (Java + Firebase)
+- Django Auction E-Commerce Platform
+- Penetration Testing & Security Analysis Lab
 
-  certifications: [
-    "CodeAlpha AI Internship — Object Detection & Tracking (Task 4)"
-  ],
+**Certifications:** CodeAlpha AI Internship — Object Detection & Tracking (Task 4)
 
-  status: "Building AI/ML + Cybersecurity projects, one commit at a time",
+**Currently:** Building AI/ML and cybersecurity projects, one commit at a time.
 
-  openTo: [
-    "AI/ML Internships",
-    "Computer Vision Roles",
-    "Cybersecurity Roles"
-  ]
-};
-```
+**Open to:** AI/ML internships · Computer vision roles · Cybersecurity roles
 
 <br/>
 
