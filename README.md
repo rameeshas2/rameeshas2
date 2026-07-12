@@ -12,6 +12,12 @@
 <img src="https://komarev.com/ghpvc/?username=rameeshas2&style=for-the-badge&color=ff8fc7&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/rameeshas2?style=for-the-badge&color=ff8fc7&labelColor=1a1a1a&logo=github" />
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CGPA-3.83%2F4.00-1a1a1a?style=flat-square&color=ff8fc7" />
+<img src="https://img.shields.io/badge/HEC%20NSCT-Top%203.3%25%20Nationally-1a1a1a?style=flat-square&color=ff8fc7" />
+<img src="https://img.shields.io/badge/University%20Rank-1st%20in%20Batch-1a1a1a?style=flat-square&color=ff8fc7" />
+
 </div>
 
 <br/>
@@ -139,6 +145,10 @@ A deep learning image classifier using transfer learning on ResNet18, with a Str
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rameeshas2&theme=react-dark&hide_border=true" width="95%" />
+
+<br/>
+
+<img src="https://ghchart.rshah.org/ff8fc7/rameeshas2" width="95%" alt="Rameesha's GitHub contribution chart" />
 
 </div>
 
