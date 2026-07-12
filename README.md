@@ -116,14 +116,21 @@ A deep learning image classifier using transfer learning on ResNet18, with a Str
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rameeshas2&theme=github_dark" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rameeshas2&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rameeshas2&theme=github_dark" width="42%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rameeshas2&theme=github_dark" width="49%" />
+
+<br/>
+
 <img src="https://img.shields.io/badge/dynamic/json?color=ff8fc7&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frameeshas2&style=for-the-badge&labelColor=1a1a1a" />
 <img src="https://img.shields.io/badge/dynamic/json?color=ff8fc7&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frameeshas2&style=for-the-badge&labelColor=1a1a1a" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,php" width="220" />
-
-*Most-used languages across public repositories*
 
 <br/>
 
