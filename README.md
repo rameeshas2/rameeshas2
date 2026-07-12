@@ -1,160 +1,169 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rameesha%20Shahid&fontSize=45&fontColor=ffffff&animation=twinkling&desc=AI%20%7C%20Computer%20Vision%20%7C%20Machine%20Learning&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,12&height=220&section=header&text=Rameesha%20Shahid&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Final-Year%20Software%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF8FC7&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Computer+Vision+%7C+Deep+Learning;Python+%7C+PyTorch+%7C+YOLOv8;Open+to+AI%2FML+Internships"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF8FC7&center=true&vCenter=true&width=650&lines=AI+%2F+Computer+Vision+%2F+Cybersecurity;YOLOv8+%2B+PyTorch+%2B+OpenCV;Building+real-time+detection+%26+ML+systems;15%2B+independent+technical+projects+shipped" alt="Typing SVG" />
 </a>
 
-<br>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=rameeshas2&style=for-the-badge&color=ff8fc7&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/badge/Open%20to%20Work-ff8fc7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-1a1a1a?style=for-the-badge&color=ff8fc7" />
+<img src="https://komarev.com/ghpvc/?username=rameeshas2&style=for-the-badge&color=ff8fc7&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/rameeshas2?style=for-the-badge&color=ff8fc7&labelColor=1a1a1a&logo=github" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CGPA-3.83%2F4.00-1a1a1a?style=flat-square&color=ff8fc7" />
+<img src="https://img.shields.io/badge/HEC%20NSCT-Top%203.3%25%20Nationally-1a1a1a?style=flat-square&color=ff8fc7" />
+<img src="https://img.shields.io/badge/University%20Rank-1st%20in%20Batch-1a1a1a?style=flat-square&color=ff8fc7" />
 
 </div>
 
----
+<br/>
 
-# About Me
+## Who I Am
 
-I'm **Rameesha Shahid**, a final-year Software Engineering student at the **University of Lahore** with a strong interest in **Artificial Intelligence, Computer Vision, Machine Learning, and Cybersecurity**.
+Final-year Software Engineering student at the University of Lahore (CGPA 3.83/4.00), ranked 1st in my batch and in the top 3.3% of IT graduates nationally on HEC's NSCT assessment.
 
-- CGPA: **3.83 / 4.00**
-- Ranked **1st in my batch**
-- Top **3.3% nationally** in the HEC NSCT assessment
-- Building intelligent systems using Python and Deep Learning
-- Open to AI/ML, Computer Vision, and Security internships
+**Core stack:** Python · C++ · Java · JavaScript · PHP  
+**AI/CV:** PyTorch · OpenCV · YOLOv8  
+**Web:** Django · Laravel · Firebase
 
----
+**Projects I've launched:**
+- AI Smart Glasses — real-time translation & building ID (Final Year Project)
+- Real-Time Object Detection & Tracking — YOLOv8 + ByteTrack
+- Flower Classification CNN — PyTorch + ResNet18
+- StudyTask — Android task manager (Java + Firebase)
+- Django Auction E-Commerce Platform
+- Penetration Testing & Security Analysis Lab
 
-# Achievements
+**Certifications:** CodeAlpha AI Internship — Object Detection & Tracking (Task 4)
 
-- First Position in Batch
-- Top 3.3% Nationally (HEC NSCT)
-- 15+ Academic & Personal Projects
-- CodeAlpha AI Internship
+**Currently:** Building AI/ML and cybersecurity projects, one commit at a time.
 
----
+**Open to:** AI/ML internships · Computer vision roles · Cybersecurity roles
 
-# Tech Stack
+<br/>
 
-| Category | Technologies |
-|-----------|--------------|
-| Languages | Python, C++, Java, JavaScript, PHP |
-| AI / ML | PyTorch, YOLOv8, OpenCV, TensorFlow |
-| Web | Django, Laravel, Firebase |
-| Database | SQLite, MySQL |
-| Tools | Git, GitHub, Docker, Linux, VS Code, Kali Linux |
+## Featured Projects
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,php,django,laravel,pytorch,opencv,firebase,docker,git,github,linux,vscode"/>
-</p>
+### Real-Time Object Detection & Tracking
 
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rameeshas2&repo=CodeAlpha_ObjectDetectionTracking&theme=nord&border_color=ff8fc7&title_color=ff8fc7&text_color=ffffff&bg_color=1a1a1a" />
+</div>
 
-# Featured Projects
+A real-time AI object detection and tracking application developed during the CodeAlpha AI internship. Detects and tracks multiple objects from webcam, video, and image input.
 
-## AI Smart Glasses
+| Layer | Technology |
+|---|---|
+| Detection | YOLOv8n |
+| Tracking | ByteTrack |
+| Vision | OpenCV |
+| Interface | Streamlit |
+| Language | Python |
 
-Wearable AI assistant capable of:
+**Code:** [github.com/rameeshas2/CodeAlpha_ObjectDetectionTracking](https://github.com/rameeshas2/CodeAlpha_ObjectDetectionTracking)
 
-- Real-time building detection
-- OCR text recognition
-- Speech recognition
-- Language translation
-- Text-to-speech feedback
+<br/>
 
-**Tech:** Python • YOLOv8 • OpenCV • Whisper • MarianMT
+### Flower Classification System (CNN + ResNet18)
 
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rameeshas2&repo=Flower-Classification-CNN-ResNet18&theme=nord&border_color=ff8fc7&title_color=ff8fc7&text_color=ffffff&bg_color=1a1a1a" />
+</div>
 
-## Real-Time Object Detection & Tracking
+A deep learning image classifier using transfer learning on ResNet18, with a Streamlit app for real-time predictions and confidence scoring.
 
-Detects and tracks multiple objects from webcam, videos, and images using YOLOv8 and ByteTrack.
+| Layer | Technology |
+|---|---|
+| Model | ResNet18 (CNN) |
+| Framework | PyTorch |
+| Preprocessing | Image Augmentation |
+| Interface | Streamlit |
+| Language | Python |
 
-**Repository**
+**Code:** [github.com/rameeshas2/Flower-Classification-CNN-ResNet18](https://github.com/rameeshas2/Flower-Classification-CNN-ResNet18)
 
-https://github.com/rameeshas2/CodeAlpha_ObjectDetectionTracking
+<br/>
 
----
+## Tech Stack
 
-## Flower Classification System
+**Languages**
 
-Deep learning image classifier using ResNet18 with a Streamlit interface for predictions.
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,php" />
 
-**Repository**
+**Frontend**
 
-https://github.com/rameeshas2/Flower-Classification-CNN-ResNet18
+<img src="https://skillicons.dev/icons?i=html,css,js,figma,wordpress" />
 
----
+**Backend / Infrastructure**
 
-# Other Projects
+<img src="https://skillicons.dev/icons?i=laravel,django,linux,docker" />
 
-- StudyTask Android App
-- Django Auction Platform
-- Hospital Management System
-- Penetration Testing & Security Lab
-- Portfolio Website
+**AI / Computer Vision / Data**
 
----
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,firebase,sqlite" />
 
-# GitHub Statistics
+**Dev Tools**
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,kali" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rameeshas2&theme=github_dark"/>
+<br/>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=rameeshas2&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rameeshas2&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rameeshas2&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-# Currently Working On
-
-- AI Smart Glasses (Final Year Project)
-- Computer Vision
-- Deep Learning
-- Open Source Contributions
-
----
-
-# Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/rameesha-shahid2/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:rameeshashahid2@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://rameeshas2.github.io">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome"/>
-</a>
-
-</p>
-
----
+## GitHub Stats
 
 <div align="center">
 
-Building intelligent systems that solve real-world problems.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rameeshas2&theme=github_dark" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rameeshas2&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rameeshas2&theme=github_dark" width="42%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rameeshas2&theme=github_dark" width="49%" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/dynamic/json?color=ff8fc7&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frameeshas2&style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/dynamic/json?color=ff8fc7&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frameeshas2&style=for-the-badge&labelColor=1a1a1a" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rameeshas2&theme=nord&border=ff8fc7&background=1a1a1a&ring=ff8fc7&fire=ff8fc7&sideNums=ff8fc7&currStreakLabel=ff8fc7" width="90%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rameeshas2&theme=nord&no-frame=true&no-bg=true&row=1&margin-w=15" />
+
+<br/>
+
+<img src="https://ghchart.rshah.org/ff8fc7/rameeshas2" width="95%" alt="Rameesha's GitHub contribution chart" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+<br/>
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rameesha-shahid2/">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=ff8fc7" />
+</a>
+<a href="mailto:rameeshashahid2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ff8fc7" />
+</a>
+<a href="https://rameeshas2.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=ff8fc7" />
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,12&height=120&section=footer" width="100%"/>
