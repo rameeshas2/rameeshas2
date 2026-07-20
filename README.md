@@ -40,13 +40,14 @@
 
 <img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Developer illustration" />
 
-Final-year Software Engineering student at the University of Lahore (CGPA 3.83/4.00), ranked 1st in my batch and in the top 3.3% of IT graduates nationally on HEC's NSCT assessment.
+Software Engineering student at the University of Lahore, ranked **1st in my batch** and in the **top 3.3% of IT graduates nationally** on HEC's NSCT assessment (96.7th percentile), with a CGPA of 3.83/4.00.
+
+I specialize in intelligent data pipelines, computer vision frameworks, and secure architectures — blending disciplined back-end logic with clean, modern interface design. I like building systems that make complex technical processes feel effortless.
 
 - 🔭 Currently building AI/ML and cybersecurity projects, one commit at a time
 - 🧠 Focused on computer vision, real-time detection, and applied deep learning
-- 🛡️ Exploring penetration testing and security analysis on the side
-- 🎓 1st in Batch · Top 3.3% Nationally (HEC NSCT) · CGPA 3.83/4.00
-- 📫 Reach me at rameeshashahid2@gmail.com
+- 🛡️ Exploring penetration testing, vulnerability assessment, and security analysis
+- 📫 rameeshashahid2@gmail.com
 
 <br clear="right"/>
 
@@ -54,67 +55,89 @@ Final-year Software Engineering student at the University of Lahore (CGPA 3.83/4
 
 | Focus Area | What I Build |
 | --- | --- |
-| **Computer Vision** | Real-time object detection & tracking, image classification, CNNs |
-| **Applied AI/ML** | Transfer learning, model training & evaluation, PyTorch pipelines |
-| **Cybersecurity** | Penetration testing labs, security analysis and vulnerability assessment |
-| **Mobile & Web Apps** | Android apps (Java + Firebase), Django & Laravel platforms |
-| **Embedded/Assistive AI** | Wearable AI systems combining vision + real-time translation |
+| **Computer Vision** | Real-time object detection & tracking, image classification, hand-gesture control, CNNs |
+| **Applied AI/ML** | Transfer learning, classification pipelines, model training & evaluation |
+| **Cybersecurity** | Vulnerability assessment labs, containerized target scanning, security analysis |
+| **Full-Stack Web** | Django & Laravel platforms — auctions, mail clients, wikis, business systems |
+| **Mobile** | Android apps with Java, Firebase Auth, and Cloud Firestore |
+| **Systems Programming** | C/C++ OOP applications, freestanding OS kernel, x86 Assembly bootstrapping |
+| **UI/UX & Front-End** | Accessible, responsive interfaces — Figma prototyping, HTML/CSS/Bootstrap |
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Featured Engineering Portfolio
 
-**AI Smart Glasses** — real-time translation & building ID (Final Year Project)
-<br/>
-**Real-Time Object Detection & Tracking** — YOLOv8 + ByteTrack
-<br/>
-**Flower Classification CNN** — PyTorch + ResNet18
-<br/>
-**StudyTask** — Android task manager (Java + Firebase)
-<br/>
-**Django Auction E-Commerce Platform**
-<br/>
-**Penetration Testing & Security Analysis Lab**
+A collection of web applications, deep learning projects, and technical systems.
+
+### 🏆 Flagship Capstone Project
+
+**AI Smart Glasses & Hand Tracking**
+AI-powered smart glasses for real-time text translation, object detection, building identification, and hand gesture control using computer vision models.
+`Python` `YOLOv8` `MediaPipe` `OpenCV` `EasyOCR` `NumPy`
 
 <br/>
 
-### Real-Time Object Detection & Tracking
+### AI, Computer Vision & Data Science
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **Real-Time Object Detection & Tracking** | Real-time AI detection and multi-object tracking from webcam, video, and image input (CodeAlpha AI internship) | YOLOv8n · ByteTrack · OpenCV · Streamlit · Python |
+| **Flower Classification CNN (ResNet18)** | Flower image classification via transfer learning, with a Streamlit app for real-time predictions | PyTorch · ResNet18 · Streamlit · Computer Vision |
+| **Mental Health Prediction ML Analysis** | Predicts workplace mental health treatment needs from survey data — cleaning, EDA, and model evaluation | Scikit-Learn · Pandas · NumPy · Classification Pipelines |
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=rameeshas2&repo=CodeAlpha_ObjectDetectionTracking&theme=nord&border_color=ff8fc7&title_color=ff8fc7&text_color=ffffff&bg_color=1a1a1a" />
-</div>
-
-A real-time AI object detection and tracking application developed during the CodeAlpha AI internship. Detects and tracks multiple objects from webcam, video, and image input.
-
-| Layer | Technology |
-|---|---|
-| Detection | YOLOv8n |
-| Tracking | ByteTrack |
-| Vision | OpenCV |
-| Interface | Streamlit |
-| Language | Python |
-
-**Code:** [github.com/rameeshas2/CodeAlpha_ObjectDetectionTracking](https://github.com/rameeshas2/CodeAlpha_ObjectDetectionTracking)
-
-<br/>
-
-### Flower Classification System (CNN + ResNet18)
-
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=rameeshas2&repo=Flower-Classification-CNN-ResNet18&theme=nord&border_color=ff8fc7&title_color=ff8fc7&text_color=ffffff&bg_color=1a1a1a" />
 </div>
 
-A deep learning image classifier using transfer learning on ResNet18, with a Streamlit app for real-time predictions and confidence scoring.
+**Code:** [Object Detection & Tracking](https://github.com/rameeshas2/CodeAlpha_ObjectDetectionTracking) · [Flower Classification](https://github.com/rameeshas2/Flower-Classification-CNN-ResNet18)
 
-| Layer | Technology |
-|---|---|
-| Model | ResNet18 (CNN) |
-| Framework | PyTorch |
-| Preprocessing | Image Augmentation |
-| Interface | Streamlit |
-| Language | Python |
+<br/>
 
-**Code:** [github.com/rameeshas2/Flower-Classification-CNN-ResNet18](https://github.com/rameeshas2/Flower-Classification-CNN-ResNet18)
+### Cybersecurity
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **Enterprise Vulnerability Assessment Lab** | Kali Linux + Docker + Greenbone GVM (OpenVAS) lab scanning containerized targets for security vulnerabilities | Kali Linux · Greenbone GVM (OpenVAS) · Docker · WordPress |
+
+<br/>
+
+### Full-Stack & Web Platforms
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **Commerce Auction Platform** | Django auction site — create listings, place bids, comment, and manage watchlists | Django · Python · SQLite |
+| **Django Asynchronous Mail Client** | Single-page email client — compose, view, archive, and reply dynamically, no page reloads | Django · JavaScript (ES6) · Fetch API · Async Routing |
+| **Wiki Encyclopedia Platform** | Wikipedia-style app for searching, creating, and editing entries in Markdown | Python · Django · Markdown Parsing |
+| **Petrol Pump Management System** | Business automation platform for fuel sales, inventory, supplier logs, and staff tracking | PHP · Laravel · MySQL · Bootstrap |
+| **Fiorella Beauty E-Commerce Website** | Responsive beauty/skincare e-commerce site with smooth animations and fluid layouts | Wix Studio · UI/UX |
+| **Google Search Front-End Clone** | Responsive clone of Google Search, Image Search, and Advanced Search | HTML5 · CSS3 · Bootstrap · Responsive Design |
+
+<br/>
+
+### Mobile
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **StudyTask Android Application** | Student task manager with Firebase Authentication and live Cloud Firestore sync | Java · Android SDK · Firebase Auth · Material Design 3 |
+
+<br/>
+
+### Systems & Object-Oriented Design
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **Freestanding Minimal OS Kernel ("KOS")** | Bare-metal kernel for low-power IoT devices — x86 Assembly bootstrapping, hardware timers, task switching | C · x86 Assembly · Freestanding Compilers |
+| **Hospital Management System** | Healthcare admin app managing doctor registries, patient records, and bed allocation via file streams | C++ · File Streams · Console UI |
+| **Medicine Inventory Management System** | Inventory system built on core OOP principles with data encapsulation and persistent file handling | C++ · OOP · File Stream Handling |
+
+<br/>
+
+### UI/UX & Design
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **Clear Spectrum Autism Support App** | High-fidelity UI/UX case study for a mobile autism support app, designed to WCAG accessibility standards | Figma · Accessibility · Prototyping · HCI Research |
 
 <br/>
 
@@ -130,7 +153,7 @@ A deep learning image classifier using transfer learning on ResNet18, with a Str
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,php" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,php" />
 
 **Frontend**
 
